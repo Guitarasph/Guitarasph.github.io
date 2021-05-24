@@ -1,2 +1,2 @@
-# Guitarasph.github.io
+#  Иван Тюрин
 Первая домашка
